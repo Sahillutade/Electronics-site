@@ -80,7 +80,7 @@ export function ElectronicsHome()
                         </div>
                     </div>
                     <div className='banner-product'>
-                        <img src='docs/images/banner_product.png.webp'></img>
+                        <img src='./images/banner_product.png.webp'></img>
                     </div>
                 </div>
             </div>
@@ -99,7 +99,7 @@ export function ElectronicsHome()
                         <div className='carousel-inner'>
                             <div className='carousel-item active'>
                                 <div className='card-image'>
-                                    <img src='docs/images/deals.webp'></img>
+                                    <img src='./images/deals.webp'></img>
                                 </div>
                                 <div className='card-body'>
                                     <div className='body-content d-block'>
@@ -138,7 +138,7 @@ export function ElectronicsHome()
                             </div>
                             <div className='carousel-item'>
                                 <div className='card-image'>
-                                    <img src='/images/deals.webp'></img>
+                                    <img src='./images/deals.webp'></img>
                                 </div>
                                 <div className='card-body'>
                                     <div className='body-content d-block'>
@@ -226,7 +226,7 @@ export function ElectronicsHome()
                                         <button className='d-block laptop-exp'>Explore</button>
                                     </div>
                                     <div className='laptop-car-img'>
-                                        <img src='docs/images/banner_2_product.png.webp' height='300'></img>
+                                        <img src='./images/banner_2_product.png.webp' height='300'></img>
                                     </div>
                                 </div>
                             </div>
@@ -239,7 +239,7 @@ export function ElectronicsHome()
                                         <button className='d-block laptop-exp'>Explore</button>
                                     </div>
                                     <div className='laptop-car-img'>
-                                        <img src='docs/images/banner_2_product.png.webp' height='300'></img>
+                                        <img src='./images/banner_2_product.png.webp' height='300'></img>
                                     </div>
                                 </div>
                             </div>
@@ -252,7 +252,7 @@ export function ElectronicsHome()
                                         <button className='d-block laptop-exp'>Explore</button>
                                     </div>
                                     <div className='laptop-car-img'>
-                                        <img src='docs/images/banner_2_product.png.webp' height='300'></img>
+                                        <img src='./images/banner_2_product.png.webp' height='300'></img>
                                     </div>
                                 </div>
                             </div>
@@ -295,7 +295,7 @@ export function ElectronicsHome()
                         <div className='mobile-pro'>
                             <div className='mobile-cont'>
                                 <div className='mob-img'>
-                                    <img src='/images/new_single.png.webp'></img>
+                                    <img src='./images/new_single.png.webp'></img>
                                 </div>
                                 <div className='mob-detail'>
                                     <div className='mob-cat'>
